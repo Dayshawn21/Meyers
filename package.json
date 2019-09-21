@@ -3,9 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "formik": "^1.5.8",
+    "formol": "^2.7.1",
+    "material-ui": "^0.20.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.2"
+    "react-material-ui-form-validator": "^2.0.9",
+    "react-scripts": "3.1.2",
+    "yup": "^0.27.0"
   },
   "scripts": {
     "start": "react-scripts start",
